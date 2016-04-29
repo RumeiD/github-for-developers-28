@@ -2,5 +2,5 @@
 ***RumeiD
  [ ] Name: RumeiD
  [ ] From: MA
- [ ] Favorite color: All
+ [ ] Favorite color: Green
  [ ] A hobby: painting
